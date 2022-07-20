@@ -1,2 +1,2 @@
-edit one
-edit from branch one
+edit one: Hi
+edit from branch one: "What's up"
