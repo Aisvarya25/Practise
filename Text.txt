@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 edit one: Hi
 edit two:"How are you"
 edit from branch one: "What's up"
+=======
+
+edit one: Hi
+edit from branch one: "What's up"
+edit two:"How are you"
+
+>>>>>>> branch_one
